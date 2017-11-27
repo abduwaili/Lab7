@@ -1,0 +1,48 @@
+@charset "utf-8";
+{
+	padding:0px;
+	margin:0px;
+}
+.main {
+	color: #FFF;
+	height: auto;
+	width: 35%;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #BBB;
+	opacity:0.5;
+}
+.kuang {
+	height: 40px;
+	width: 70%;
+	border: 1px solid #00F;
+	margin-bottom: 20px;
+	
+}
+.xueshengzhuce {
+	color: #00C;
+	margin-top: 20px;
+	font-size: 24px;
+	height: auto;
+}
+
+.zhuce_anniu {
+	height: 40px;
+	width: 70%;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	background-color: #09F;
+	color: #FFF;
+	font-size: 24px;
+}
+
+
+.big {
+	height: auto;
+	width: 100%;
+	margin-top: 70px;
+}
+
+.form_1 {
+	opacity:1;
+}

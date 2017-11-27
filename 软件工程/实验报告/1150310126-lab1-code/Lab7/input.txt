@@ -1,0 +1,14 @@
+In the big data time, servitization becomes one of the important#development trends-of the IT world.
+More and more software resources are developed and existed in the format of services in Internet.
+These services from multi-domains and multi-networks are converged as a huge complicated service network or ecosystem, which can be called as Big Service.
+How to reuse the abundant open service resource to rapidly develop the new applications or software services 
+to meet massive individualized customer requirements is a key issue in the big data and big service ecosystem. 
+Based on analyzing the ecosystem of big service, this paper presents a new paradigm of software service engineering, 
+RE2SEP (Requirement-Engineering Two-Phase of Service Engineering Paradigm ), which includes service oriented requirement engineering, 
+domain oriented service engineering, and the development approach of software services. By means of the RE2SEP approach, 
+the adaptive service solutions can be efficiently designed and implemented to match the requirement propositions of massive individualized customers in Big Service ecosystem.
+A case study of the RE2SEP applications, which is a project on citizen¡¯s mobility service in mart city environment, is also given in this paper. 
+The RE2SEP paradigm will change the way of traditional life-cycle oriented software engineering, and lead a new approach of software service engineering.
+
+author:xhc@hit.edu.cn
+
